@@ -1,0 +1,37 @@
+{
+  "usage": {
+    "num_pages": 1,
+    "num_fields": 12
+  },
+  "result": [
+    {
+      "referenceIds": {
+        "value": [
+          "PLI-PETV-236"
+        ],
+        "confidenceScore": 1
+      },
+      "shipperName": {
+        "value": "Canada's Best Store Fixtures",
+        "confidenceScore": 1
+      },
+      "shipperAddress": {
+        "value": "501 Rowntree Dairy Road, Woodbridge, ON, CA L4L 8H1",
+        "confidenceScore": 1
+      },
+      "consigneeName": {
+        "value": "Pet Valu #3108",
+        "confidenceScore": 1
+      },
+      "consigneeAddress": {
+        "value": "400 King Street, 3004, Estevan, SK, CA S4A 2B4",
+        "confidenceScore": 1
+      },
+      "carrierName": {
+        "value": "Process Logistics Inc.",
+        "confidenceScore": 1
+      }
+    }
+  ],
+  "citations": null
+}
